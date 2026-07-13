@@ -121,7 +121,12 @@ a {
 }
 
 img { height: auto; }
-
+.book-description
+{
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+}
 input,
 button,
 textarea {
